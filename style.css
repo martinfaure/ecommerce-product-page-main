@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+    margin-left: 10%;
+	height: 100vh;
+}
+
+nav{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    height: 2%;
+    width: 100%;
+}
+
+.nav-2{
+    display: flex;
+    gap: 30px;
+    margin-left: 500px;
+}
